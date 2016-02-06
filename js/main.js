@@ -26,6 +26,7 @@ var currentstate;
 
 var gravity = 0.25;
 var velocity = 0;
+var pressure = 0;
 var position = 180;
 var rotation = 0;
 var jump = -4.6;
@@ -158,9 +159,13 @@ function gameloop() {
 
    //update the player speed/position
    velocity += gravity;
+   velocity += pressure;
    position += velocity;
 
    if (debugmode) {
+     console.log('presure: ' + pressure)
+     var boundingbox = $("#forcebox");
+     boundingbox.css('width', -100*pressure);
      console.log("velocity: " + velocity);
    }
    //update the player
@@ -284,12 +289,10 @@ function screenClick()
 
 Pressure.set('#gamecontainer', {
   change: function (force, event) {
-    if (debugmode) {
-      console.log('force: ' + force)
-      var boundingbox = $("#forcebox");
-      boundingbox.css('width', 100*force);
-    }
-    velocity -= gravity * ((force + 0.1) * 1.7);
+    pressure = - gravity * (force * 5);
+  },
+  end: function () {
+    pressure = 0;
   }
 });
 
