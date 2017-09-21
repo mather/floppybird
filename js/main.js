@@ -161,6 +161,9 @@
      //update the player speed/position
      velocity += gravity;
      velocity += pressure;
+     if (velocity < jump * 2) {
+       velocity = jump * 2;
+     }
      position += velocity;
 
      if (debugmode) {
