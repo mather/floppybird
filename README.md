@@ -12,11 +12,17 @@ http://nebez.github.io/floppybird/
 Cool Stuff
 ---------
 *Some cool things other people have done with the code. Let me know about your projects and I'll link it here*  
+https://wanderingstan.github.io/handybird/ - **[@wanderinstan](https://github.com/wanderingstan)** - Real hand gestures to play Flappy Bird, using doppler effect and microphone.
+http://www.hhcc.com/404 - **[Hill Holiday](http://www.hhcc.com/)** using it for their 404  
+http://heart-work.se/duvchi - Floppy bird, modified, and used as a promotional campaign for an album release  
+https://www.progressivewebflap.com/ - **[@jsonthor](https://twitter.com/jsonthor)** turned Floppy Bird into a PWA!
 https://github.com/rukmal/FlappyLeapBird - **[Rukmal](http://rukmal.me/)** integrated LeapMotion Controller functionality! Check out his website, he's done some cool stuff.  
 http://chrisbeaumont.github.io/floppybird/ - **[@chrisbeaumont](https://github.com/chrisbeaumont)** made an awesome auto-pilot, check it out  
 http://www.lobe.io/flappy-math-saga/- **[@tikwid](https://github.com/tikwid)** made a really cool version designed to teach you times tables. really cool.  
-http://dota2.cyborgmatt.com/flappydota/ - flappy dota, this one is really cool.
-http://tippy.gochiusa.net/ - Japanese anime inspired floppybird.
+http://dota2.cyborgmatt.com/flappydota/ - flappy dota, this one is really cool.  
+http://tippy.gochiusa.net/ - Japanese anime inspired floppybird.  
+http://emdigital.ru/wiki — floppybird on **[EyeMedia Instagram Marketing Agency](http://emdigital.ru/)** website. 
+http://labs.aylien.com/flappy-bird/ - **[@mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es)** - Playing Flappy Bird using Evolution Strategies
 
 Credits
 ------
