@@ -23,6 +23,7 @@ http://dota2.cyborgmatt.com/flappydota/ - flappy dota, this one is really cool.
 http://tippy.gochiusa.net/ - Japanese anime inspired floppybird.  
 http://emdigital.ru/wiki — floppybird on **[EyeMedia Instagram Marketing Agency](http://emdigital.ru/)** website. 
 http://labs.aylien.com/flappy-bird/ - **[@mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es)** - Playing Flappy Bird using Evolution Strategies
+http://mather.github.io/pressurebird/ - **[mather/pressurebird](https://github.com/mather/pressurebird)** Control bird with ForceTouch
 
 Credits
 ------
